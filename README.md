@@ -16,6 +16,9 @@
     - Twitter: [@lucid_arch](https://twitter.com/lucid_arch) & [#lucidarch](https://twitter.com/search?q=%23lucidarch)
     - Reddit: [/r/lucidarch](https://www.reddit.com/r/lucidarch/)
 
+> **`Note`**
+> This repo was forked to solve upgrade issues with Laravel 10
+
 ## Table of Contents
 
   * [About Lucid](#about-lucid)
